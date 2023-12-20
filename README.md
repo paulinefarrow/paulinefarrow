@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulinefarrow
-- 👀 I’m interested in databases.
+- 👀 I’m interested in combining Python with databases.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on code readability and efficiency.
 - 📫 How to reach me : pauline.farrow@hotmail.co.uk
