@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @paulinefarrow
-- 👀 I’m interested in combining Python with databases.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on code readability and efficiency.
+- 👋 Hi, I’m Pauline Farrow
+- 👀 I’m interested in achieving code simplicity, readability and efficiency.
+- 🌱 I’m currently devoloping my knowledge of Python, SQL, PL/SQL and R.
+- 💞️ I’m looking to collaborate on a project combining Python with relational databases.
 - 📫 How to reach me : pauline.farrow@hotmail.co.uk
 
 <!---
